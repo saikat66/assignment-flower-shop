@@ -46,6 +46,7 @@ body{
 .banner-container{
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 97px;
     padding: 50px 240px 0;
 }
@@ -153,7 +154,7 @@ body{
     max-width: 880px;
     display: block;
     padding: 120px 285px;
-    margin: 0 auto;
+    margin: 0 auto 130px auto;
     /* margin: 0 220px; */
     border-radius: 8px;
 
