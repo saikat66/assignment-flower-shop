@@ -127,6 +127,10 @@
 
 }
 
+.hot-deal-title-red{
+    color: #E55473;
+}
+
 .hot-deal-section-button{
     display: block;
     margin: 10px auto 0 auto;
