@@ -35,8 +35,8 @@
     font-size: 20px;
     font-weight: 700;
 }
-
 /* Common Styles end */
+
 
 /* Header section styles start */
 .header{
@@ -67,11 +67,8 @@
 }
 /* Header section styles end */
 
+
 /* Our Featured Flowers section styles start */
-.featured-flowers-title{
-
-}
-
 .flowers{
     display: flex;
     gap: 24px;
@@ -115,6 +112,7 @@
 }
 /* Our Featured Flowers section end */
 
+
 /* Hot Deal section styles start */
 .hot-deal-container{
     display: flex;
@@ -137,6 +135,7 @@
 }
 /* Hot Deal section styles end */
 
+
 /* Instagram section styles start */
 .instagram-image-container{
     display: flex;
@@ -150,6 +149,7 @@
 
 }
 /* Instagram section styles end */
+
 
 /* Bonus section styles start */
 .happy-customer-container{
@@ -191,6 +191,7 @@
 }
 /* Bonus section styles end */
 
+
 /* Latest Deals section styles start */
 .latest-deals-container{
     background-image: url('../Flower Asset/Rectangle\ 9.png');
@@ -202,7 +203,6 @@
     margin: 0 auto 130px auto;
     /* margin: 0 220px; */
     border-radius: 8px;
-
 }
 
 .subscribe{
@@ -227,6 +227,7 @@
     width: 100%;
 }
 /* Latest Deals section styles end */
+
 
 /* Footer section styles start */
 .footer{
