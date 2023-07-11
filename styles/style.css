@@ -113,6 +113,34 @@
 /* Our Featured Flowers section end */
 
 
+/* Optional: Service Section styles start */
+.service-section-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 85px 0;
+    margin: 0 auto 130px auto;
+    max-width: 1460px;
+}
+
+.service-section img{
+    display: block;
+    margin: 0 auto;
+}
+
+.service-description{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 25px 0;
+}
+/* Optional: Service Section styles end */
+
+
 /* Hot Deal section styles start */
 .hot-deal-container{
     display: flex;
