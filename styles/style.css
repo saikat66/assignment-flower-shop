@@ -144,3 +144,31 @@ body{
 
 }
 /* Instagram section styles end */
+
+/* Latest Deals section styles start */
+.latest-deals-container{
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    max-width: 880px;
+    display: block;
+    padding: 120px 285px;
+    margin: 0 auto;
+    /* margin: 0 220px; */
+    border-radius: 8px;
+
+}
+
+.subscribe{
+    display: flex;
+    justify-content: center;
+}
+
+.subscription-form input[type=email]{
+    border: none;
+    border-radius: 8px;
+    padding: 22px;
+    background: #FFF;
+    margin-right: 16px;
+}
+/* Latest Deals section styles end */
