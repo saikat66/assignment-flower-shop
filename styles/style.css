@@ -1,0 +1,119 @@
+/* Common Styles start */
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.section-container{
+    margin-bottom: 130px;
+}
+
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 24px 0 45px 0;
+    
+    }
+
+/* Common Styles end */
+.button-primary{
+    border: none;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: 700;
+}
+/* Header section styles start */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+    margin-bottom: 180px;
+}
+
+.banner-container{
+    display: flex;
+    align-items: center;
+    gap: 97px;
+    padding: 50px 240px 0;
+}
+
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin: 32px 0;
+}
+/* Header section styles end */
+
+/* Our Featured Flowers section styles start */
+.featured-flowers-title{
+
+}
+
+.flowers{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.flower-item-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 80px 0;
+
+}
+
+.flower-item-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 110px 80px 0;
+
+}
+
+.flower-item-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 110px 80px 0;
+
+}
+
+.flower-item-image{
+    width: 310px;
+    height: 430px;
+}
+
+/* .flower-item-anchor{
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 320px;
+} */
+
+.flower-item a{
+    display: flex;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 32px;
+    justify-content: center;
+}
+
+/* Our Featured Flowers section end */
