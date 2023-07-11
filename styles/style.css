@@ -1,6 +1,7 @@
 /* Common Styles start */
-body{
+*{
     font-family: 'Lato', sans-serif;
+    margin: 0;
 }
 
 .section-container{
@@ -171,5 +172,44 @@ body{
     padding: 22px;
     background: #FFF;
     margin-right: 16px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
 /* Latest Deals section styles end */
+
+/* Footer section styles start */
+.footer{
+    padding: 128px 0;
+    background: #111010;
+}
+
+.footer-logo{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.footer-logo-red{
+    color: white;
+}
+
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    margin: 24px auto 32px auto;
+    max-width: 625px;
+    display: block;
+    text-align: center;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* Footer section styles end */
