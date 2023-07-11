@@ -156,7 +156,8 @@
     align-items: center;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    padding: 100px 400px;
+    /* padding: 100px 285px; */
+    padding: 100px 230px;
 }
 
 .customer-comment-container{
@@ -165,6 +166,28 @@
     align-items: center; */
     gap: 30px;
     border-radius: 8px;
+}
+
+.customer-comment{
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.customer-comment-heading{
+    color: #272727;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 0 15px;
+}
+
+.customer-comment-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
 }
 /* Bonus section styles end */
 
