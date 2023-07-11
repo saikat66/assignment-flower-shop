@@ -102,14 +102,6 @@ body{
     height: 430px;
 }
 
-/* .flower-item-anchor{
-    color: #272727;
-    font-size: 24px;
-    font-weight: 700;
-    text-decoration-line: underline;
-    margin-top: 320px;
-} */
-
 .flower-item a{
     display: flex;
     color: #272727;
@@ -119,11 +111,9 @@ body{
     margin-top: 32px;
     justify-content: center;
 }
-
 /* Our Featured Flowers section end */
 
 /* Hot Deal section styles start */
-
 .hot-deal-container{
     display: flex;
     justify-content: center;
@@ -139,5 +129,18 @@ body{
     display: block;
     margin: 10px auto 0 auto;
 }
-
 /* Hot Deal section styles end */
+
+/* Instagram section styles start */
+.instagram-image-container{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.instagram-image-item{
+    width: 342px;
+    height: 396px;
+
+}
+/* Instagram section styles end */
