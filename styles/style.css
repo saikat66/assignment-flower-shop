@@ -19,11 +19,12 @@ body{
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    margin: 24px 0 45px 0;
+    margin: 24px auto 45px auto;
+    display: block;
+    max-width: 590px;
     
     }
 
-/* Common Styles end */
 .button-primary{
     border: none;
     border-radius: 8px;
@@ -33,6 +34,9 @@ body{
     font-size: 20px;
     font-weight: 700;
 }
+
+/* Common Styles end */
+
 /* Header section styles start */
 .header{
     background: rgba(229, 84, 115, 0.10);
@@ -117,3 +121,23 @@ body{
 }
 
 /* Our Featured Flowers section end */
+
+/* Hot Deal section styles start */
+
+.hot-deal-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 185px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px 400px;
+
+}
+
+.hot-deal-section-button{
+    display: block;
+    margin: 10px auto 0 auto;
+}
+
+/* Hot Deal section styles end */
